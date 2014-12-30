@@ -1,0 +1,10 @@
+*{ margin: 0; padding: 0}
+body{ background-color: #2c3437;}
+.word{ width: 1020px; height: 340px; margin: 0px auto; padding-top: 180px;}
+.letter{ width: 240px; height: 340px; float: left;}
+.u{ width: 300px;}
+.love{ width: 480px;}
+.play > div > div { cursor: pointer; background-color:#ff1493;}
+div > div > div{ height: 20px;}
+div > div > div > div{ width: 16px; height: 16px; margin: 2px; float: left; background-color: #fff; 
+					   border-radius: 2px;}
